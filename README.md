@@ -1,4 +1,4 @@
-# Lucio-Zanettini
+# Luciozanettini
 HI, I AM LUCIO 🙌🏻
 
 Welcome to my Data Analyst Portfolio! Here, I showcase various projects that demonstrate my skills in data analysis, including work with SQL, Python, and data visualization tools such as Tableau and Power BI. My goal is to utilize data-driven insights to support decision-making processes and help organizations improve their strategies.
